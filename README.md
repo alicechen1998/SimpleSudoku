@@ -1,2 +1,2 @@
 # SimpleSudoku
-This is Sudoku game app using Andriod Studio
+This is Sudoku game app using Android Studio
